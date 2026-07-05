@@ -55,7 +55,7 @@ header {
 }
 
 .nav-links a:hover {
-    color: #38bdf8;
+    color: #4e97b7;
 }
 
 .logo-square {
@@ -100,7 +100,7 @@ header {
 }
 
 .highlight {
-    color: #38bdf8;
+    color: #4e97b7;
 }
 
 .hero p {
@@ -123,7 +123,7 @@ header {
 /* GENERIC BUTTONS */
 .btn {
     display: inline-block;
-    background-color: #38bdf8;
+    background-color: #4e97b7;
     color: #0f172a;
     padding: 0.75rem 1.5rem;
     text-decoration: none;
@@ -139,8 +139,8 @@ header {
 
 .btn-secondary {
     background-color: transparent;
-    color: #38bdf8;
-    border: 2px solid #38bdf8;
+    color: #4e97b7;
+    border: 2px solid #4e97b7;
     margin-left: 1rem;
 }
 
@@ -168,7 +168,7 @@ header {
 h2 {
     font-size: 2rem;
     margin-bottom: 1.5rem;
-    border-bottom: 3px solid #38bdf8;
+    border-bottom: 3px solid #4e97b7;
     display: inline-block;
     padding-bottom: 0.3rem;
 }
@@ -184,7 +184,7 @@ h2 {
 .education-box {
     background-color: #fff;
     padding: 1.5rem;
-    border-left: 4px solid #38bdf8;
+    border-left: 4px solid #4e97b7;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
@@ -263,7 +263,7 @@ h2 {
 
 .project-link {
     text-decoration: none;
-    color: #38bdf8;
+    color: #4e97b7;
     font-weight: bold;
     font-size: 0.95rem;
 }
